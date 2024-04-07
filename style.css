@@ -1,12 +1,12 @@
-body {
-    margin: 0;
-    background: radial-gradient(#a94c25,#9c5e3a, rgb(156, 76, 27))no-repeat fixed;
-  }
-  button.clear {
-    background: #8f4229;
-    color: #fff;
-  }
-  table {
+    body {
+        margin: 0;
+        background: radial-gradient(#1e8fa5,#08506b, black)no-repeat fixed;
+    }
+    button.clear {
+        background: #8f4229;
+        color: #fff;
+    }
+    table {
     background: rgb(39, 40, 43);
     padding: 7px 5px;
     border: 6px solid #00000000;
