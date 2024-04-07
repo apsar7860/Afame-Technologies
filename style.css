@@ -1,6 +1,6 @@
 body {
     margin: 0;
-    background: radial-gradient(#a5661e,#08506b, black)no-repeat fixed;
+    background: radial-gradient(#cac5be,#adb5b8, rgb(201, 193, 193))no-repeat fixed;
   }
   button.clear {
     background: #8f4229;
